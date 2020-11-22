@@ -6,3 +6,4 @@ git tortoise
 git 再tortoise
 git 推送tortoise
 git 查看分支
+git 用tor进行提交推送
