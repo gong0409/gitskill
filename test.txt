@@ -6,4 +6,8 @@ git tortoise
 git 再tortoise
 git 推送tortoise
 git 查看分支
+<<<<<<< HEAD
 git  jjjjjj
+=======
+git 用tor进行提交推送
+>>>>>>> e220fad4f1287291d9d22b8d9f5312f635ece575
