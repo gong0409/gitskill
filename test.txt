@@ -5,3 +5,4 @@ git 再拉取
 git tortoise
 git 再tortoise
 git 推送tortoise
+git 查看分支
